@@ -1,2 +1,2 @@
 # Predicting-Marketing-Targets-in-Banking-Final-Version_ML
-This project employs machine learning algorithms, including Logistic Regression, Naïve Bayes, LDA, QDA, Decision Trees, and KNN, to predict customer term deposit subscriptions using demographic and banking data. It emphasizes extensive EDA, data preprocessing with scaling, encoding, interaction terms, and PCA, to enhance model performance.
+This project employs machine learning algorithms, including Logistic Regression, Naive Bayes, LDA, QDA, Decision Trees, and KNN, to predict customer term deposit subscriptions using demographic and banking data. It emphasizes extensive EDA, data preprocessing with scaling, encoding, interaction terms, and PCA, to enhance model performance.
